@@ -1,4 +1,4 @@
-//
+ //
 // Copyright (C) 2019-2021 The LineageOS Project
 // Copyright (C) 2021 AOSPK
 //
@@ -16,11 +16,10 @@
 //
 
 cc_library_static {
-    name: "libinit_star2qltechn",
+    name:  "init_samsung_star2qltechn",
     recovery_available: true,
-    srcs: ["init_star2qltechn.cpp"],
+    srcs: ["init_samsung_star2qltechn.cpp"],
     include_dirs: [
-        "system/core/base/include",
         "system/core/init"
     ],
     shared_libs: [
