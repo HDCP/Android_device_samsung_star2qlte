@@ -18,14 +18,14 @@
 # Inherit from sdm845-common
 -include device/samsung/sdm845-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/star2qltechn
+DEVICE_PATH := device/samsung/star2qlte
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := star2qltechn
+TARGET_OTA_ASSERT_DEVICE := star2qlte
 
 # Kernel
 TARGET_KERNEL_CONFIG := star2qlte_chn_open_defconfig
 
 # Vendor init
-TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_samsung_star2qltechn
-TARGET_RECOVERY_DEVICE_MODULES := init_samsung_star2qltechn
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_samsung_star2qlte
+TARGET_RECOVERY_DEVICE_MODULES := init_samsung_star2qlte
