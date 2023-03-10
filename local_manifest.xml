@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/samsung/sdm845-common" name="HDCP/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-18.1" />
+ <project path="device/samsung/sdm845-common" name="HDCP/android_device_samsung_sdm845-common.git" remote="github" revision="lineage-19.1" />
  <project path="device/samsung/star2qlte" name="HDCP/Android_device_samsung_star2qlte.git" remote="github" revision="lineage-19.1" />
  <project path="vendor/samsung/sdm845-common" name="HDCP/Android_device_samsung_star2qlte.git" remote="github" revision="lineage-19.1" />
  <project path="kernel/samsung/sdm845" name="ZEROAESQUERDA/SDM845_SAMSUNG_KERNEL.git" remote="github" revision="main" />
