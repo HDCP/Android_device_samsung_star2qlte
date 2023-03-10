@@ -16,9 +16,9 @@
 //
 
 cc_library_static {
-    name:  "init_samsung_star2qltechn",
+    name:  "init_samsung_star2qlte",
     recovery_available: true,
-    srcs: ["init_samsung_star2qltechn.cpp"],
+    srcs: ["init_samsung_star2qlte.cpp"],
     include_dirs: [
         "system/core/init"
     ],
