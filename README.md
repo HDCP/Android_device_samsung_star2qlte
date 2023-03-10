@@ -1,8 +1,8 @@
-# Device Tree for Samsung Galaxy S9+ (star2qltechn)
+# Device Tree for Samsung Galaxy S9+ (star2qlte)
 
-The Samsung Galaxy S9+ (codenamed "star2qltechn") is a top of the line device from Samsung. It was announced in February 2018 and was released in March 2018.
+The Samsung Galaxy S9+ (codenamed "star2qlte") is a top of the line device from Samsung. It was announced in February 2018 and was released in March 2018.
 
-This is a bringup of Nyoutaaa's tree, from dotOS to Lineage, to allow building that rom for the star2qltechn and star2qlte.
+This is a bringup of Nyoutaaa's tree, from dotOS to Lineage, to allow building that rom for the star2qlte.
 ## Device specifications
 
 | Feature                 | Specification                                                   |
